@@ -1,0 +1,22 @@
+.heading {
+    border: 4px white solid;
+    padding: 20px;
+    width: 450px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+    font-family: 'Itim', cursive;
+}
+.page-link {
+    margin: auto;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: blue;
+    color: white;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
