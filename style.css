@@ -20,3 +20,7 @@
     text-align: center;
     width: 100%;
 }
+canvas {
+    border: 5px solid white;
+    border-radius: 10px;
+}
